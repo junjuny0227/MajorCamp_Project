@@ -7,12 +7,13 @@ export const Wrapper = styled.div`
 
 export const MenuContainer = styled.div`
   display: flex;
+  justify-content: space-between;
   align-items: center;
   width: 400px;
   height: 52px;
   border-radius: 10px;
   border: 1px solid #000;
-  padding: 0 0 0 40px;
+  padding: 0 40px 0 40px;
   margin-bottom: 10px;
   font-size: 16px;
   font-weight: 500;

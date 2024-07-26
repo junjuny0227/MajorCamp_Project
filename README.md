@@ -1,9 +1,17 @@
-# MajorCamp_Project
+# IMTY
 
-### `npm start`
+Introduce Myself To You
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 개요
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+간편하게 포트폴리오를 만들고 관리할 수 있는 시스템
+
+## 실행 방법
+
+파일들을 다운로드 한 후 터미널 창에 `npm start` 입력
+
+## 참여
+
+**김명현**: 응원단장<br>
+**김민솔**: 디자인<br>
+**전준연**: 개발

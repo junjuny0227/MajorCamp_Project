@@ -1,14 +1,13 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import "./App.css";
-import Home from "./pages/main";
-import Test from "./pages/test";
+import Home from "./pages/home";
+import "./style/fonts.css";
+import "./style/global.css";
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/test" element={<Test />} />
       </Routes>
     </BrowserRouter>
   );

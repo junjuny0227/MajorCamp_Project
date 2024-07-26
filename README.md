@@ -33,4 +33,5 @@ Introduce Myself To You
 
 # 마지막 할 말
 
-협업은 차갑다.
+협업은 차갑다.<br>
+리액트는 차갑다.
